@@ -1,13 +1,13 @@
 <h1 align="center">AI Text Summarizer</h1>
 
-![AI-Text-Summarizer-App](https://socialify.git.ci/vansh-codes/AI-Text-Summarizer-App/image?name=1&owner=1&theme=Dark)
+![AI-Text-Summarizer-App](https://socialify.git.ci/Savvythelegend/AI-Text-Summarizer-App/image?name=1&owner=1&theme=Dark)
 
 <div align="center">
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvansh-codes%2FAI-Text-Summarizer-App
-&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> <img src="https://img.shields.io/github/last-commit/vansh-codes/AI-Text-Summarizer-App?style=for-the-badge" height=40px />
-<img src="https://img.shields.io/github/repo-size/vansh-codes/AI-Text-Summarizer-App?style=for-the-badge" height=40px> <br/> <br/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=30px /> <img src="https://vercelbadge.vercel.app/api/vansh-codes/AI-Text-Summarizer-App?style=for-the-badge" height=30px />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSavvythelegend%2FAI-Text-Summarizer-App
+&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> <img src="https://img.shields.io/github/last-commit/Savvythelegend/AI-Text-Summarizer-App?style=for-the-badge" height=40px />
+<img src="https://img.shields.io/github/repo-size/Savvythelegend/AI-Text-Summarizer-App?style=for-the-badge" height=40px> <br/> <br/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=30px /> <img src="https://vercelbadge.vercel.app/api/Savvythelegend/AI-Text-Summarizer-App?style=for-the-badge" height=30px />
 
 </div>
 
@@ -53,7 +53,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vansh-codes/AI-Text-Summarizer-App.git
+   git clone https://github.com/Savvythelegend/AI-Text-Summarizer-App.git
    ```
 2. Create a `.env` file in the root directory and add your Hugging Face API token:
    ```bash
@@ -101,12 +101,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞Contact
 
-For any questions or feedback, please contact [vansh-codes](https://github.com/vansh-codes).
+For any questions or feedback, please contact [Savvythelegend](https://github.com/Savvythelegend).
 
-### - Created by **Vansh Chaurasiya** 
+### - Created by **Mehfooj Alam** 
 Show some ❤️ by starring this repository !
 
 
 ## 🔗Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshchaurasiya24)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/vanshchaurasiy4) <p align="right"><a href="#top">BACK TO TOP</a></p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehfooj-alam-b6aa0b243/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mehfooj194108) <p align="right"><a href="#top">BACK TO TOP</a></p>
+# AI-Text-Summarizer-App
