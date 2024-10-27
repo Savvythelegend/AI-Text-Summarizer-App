@@ -5,7 +5,6 @@ require('dotenv').config();
 async function summarizeText(text) {
   console.log("Summarizing..\n");
 
-  // INSERT CODE SNIPPET FROM POSTMAN BELOW
   let data = JSON.stringify({
     "inputs": text,
     "parameters": {
