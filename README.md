@@ -62,9 +62,6 @@
 3. run `node index.js`
 4. Open `localhost:3000` in your web browser to start using the application.
 
-## 🌐Web Application
-1. Access here: [AI-Text-Summarizer](https://ai-text-summarizer-app-gold.vercel.app/)
-
 ## Usage
 
 1. Open the application in your browser.
